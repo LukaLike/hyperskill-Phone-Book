@@ -1,4 +1,4 @@
-# hyperskill-Phone-Book
+# hyperskill-Phone_Book
 ### About:
 This is a program which uses various sorting and searching algorithms and compares their sort and search time.
 
